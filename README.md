@@ -1,7 +1,8 @@
 # TestVagrantTechnologiesTest
 This is a Python code. We have to input the budget. 
 
-#python TestVagrantTechnologiesTest.py
+to run the code use this command:
+python TestVagrantTechnologiesTest.py
 
 for example: 
 
