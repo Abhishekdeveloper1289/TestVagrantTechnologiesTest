@@ -25,4 +25,4 @@ for i in range(len(items)):
     for j in range(i + 1, len(items)):
         expence = weektotal[items[i]] + weektotal[items[j]]
         if expence <= budget:
-            print('{"', items[i], '","', items[j], '"}, ')
+            print('{"', items[i], '","', items[j], '"}')
