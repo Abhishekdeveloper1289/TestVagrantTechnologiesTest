@@ -10,7 +10,7 @@ INPUT :
 Enter the Budget: 40
 
 OUTPUT:
-{" TOI "}:{" BM "}, 
-{" Hindu "}:{" BM "}, 
-{" Hindu "}:{" HT "}, 
-{" BM "}:{" HT "}, 
+{" TOI "," BM "}, 
+{" Hindu "," BM "}, 
+{" Hindu "," HT "}, 
+{" BM "," HT "}
